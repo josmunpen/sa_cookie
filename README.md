@@ -1,7 +1,9 @@
-Análisis de sentimiento
-==============================
+[![Conda](https://img.shields.io/conda/v/conda-forge/python)](https://docs.conda.io/en/latest/)
+# Análisis de sentimiento de reseñas de películas
 
-Proyecto de análisis de sentimiento
+En este proyecto se abordará la tarea de análisis de sentimiento 
+ empleando un dataset que contiene reseñas de películas.
+
 
 Project Organization
 ------------
@@ -54,4 +56,23 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+## FAQ
+
+#### ¿Qué es análisis de sentimiento?
+
+Las tareas de análisis de sentimiento intentan determinar si un texto es positivo o
+ negativo. Por ejemplo: *"Esta película es terrible"* se debería etiquetar como negativo.
+
+
+## Contribuciones
+
+¡Toda ayuda es bienvenida!
+
+
+## Authors
+
+- [José Manuel Muñiz Peña](https://www.github.com/josmunpen)
+
+
+## :cowboy_hat_face: 🚀 About Me
+Estudié Ingeniería del Software y en la actualidad me estoy formando en Data Science.
