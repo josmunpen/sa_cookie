@@ -5,6 +5,14 @@ En este proyecto se abordará la tarea de análisis de sentimiento
  empleando un dataset que contiene reseñas de películas.
 
 
+## FAQ
+
+#### ¿Qué es análisis de sentimiento?
+
+Las tareas de análisis de sentimiento intentan determinar si un texto es positivo o
+ negativo. Por ejemplo: *"Esta película es terrible"* se debería etiquetar como negativo.
+
+
 Project Organization
 ------------
 
@@ -55,14 +63,6 @@ Project Organization
 
 
 --------
-
-## FAQ
-
-#### ¿Qué es análisis de sentimiento?
-
-Las tareas de análisis de sentimiento intentan determinar si un texto es positivo o
- negativo. Por ejemplo: *"Esta película es terrible"* se debería etiquetar como negativo.
-
 
 ## Contribuciones
 
